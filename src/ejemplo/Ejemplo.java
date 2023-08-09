@@ -11,5 +11,7 @@ public static void main(String[] args) {
 //TODO code aplication logic here        
  Persona maria = new Persona("Lopez","Maria",30);
  maria.saludar();
-    
-
+                                    
+Persona Amelia = new Persona ("G", "Amelia",38);
+amelia.saludar();
+}
