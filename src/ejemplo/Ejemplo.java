@@ -12,6 +12,6 @@ public static void main(String[] args) {
  Persona maria = new Persona("Lopez","Maria",30);
  maria.saludar();
                                     
-Persona Amelia = new Persona ("G", "Amelia",38);
+Persona amelia = new Persona ("G", "Amelia",38);
 amelia.saludar();
 }
